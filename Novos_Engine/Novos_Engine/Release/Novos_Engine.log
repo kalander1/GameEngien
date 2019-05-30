@@ -1,0 +1,16 @@
+﻿  ActorManager.cpp
+  AISystem.cpp
+  AnimationSystem.cpp
+  AudioSystem.cpp
+  Dispatcher.cpp
+  GameCodeApp.cpp
+c:\users\taha_\desktop\sure\engrammerstudio\novos_engine\novos_engine\gamecodeapp.cpp(103): error C2065: 'GCC_NEW': undeclared identifier
+c:\users\taha_\desktop\sure\engrammerstudio\novos_engine\novos_engine\gamecodeapp.cpp(103): error C2144: syntax error: 'char' should be preceded by ';'
+c:\users\taha_\desktop\sure\engrammerstudio\novos_engine\novos_engine\gamecodeapp.cpp(103): error C2059: syntax error: ';'
+  KeyboardEvent.cpp
+  Main.cpp
+  PhysicSystem.cpp
+  PickupSystem.cpp
+  RenderSystem.cpp
+  ScriptComponent.cpp
+  ScriptingSystem.cpp

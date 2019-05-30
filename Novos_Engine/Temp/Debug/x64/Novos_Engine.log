@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  AudioComponent.cpp
+  GameCodeApp.cpp
+  InputInterface.cpp
+  JsonParser.cpp
+  Main.cpp
+  PhysicSystem.cpp
+  EngineSystem.cpp
+  GameObject.cpp
+  RenderComponent.cpp
+  RigidBody.cpp
+  ScriptComponent.cpp
+  SystemInitializer.cpp
+  TransformComponent.cpp
+  Generating Code...
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\basecomponent.h(25): warning C4172: returning address of local variable or temporary
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\basecomponent.h(25): warning C4172: returning address of local variable or temporary
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\basecomponent.h(25): warning C4172: returning address of local variable or temporary
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\basecomponent.h(25): warning C4172: returning address of local variable or temporary
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\gameobject.cpp(99): warning C4715: 'GameObject::GetComponent': not all control paths return a value
+f:\github\engrammerstudio\novos_engine\novos_engine\novos_engine\basecomponent.h(25): warning C4172: returning address of local variable or temporary
+  Novos_Engine.vcxproj -> F:\GitHub\EngrammerStudio\Novos_Engine\Novos_Engine\Novos_Engine\..\Game\Debug\x64\Novos_Enginex64Debug.exe

@@ -1,0 +1,39 @@
+﻿  lapi.c
+c:\users\taha_\desktop\sure\engrammerstudio\novos_engine\lib\luagod\luagod\source\lapi.c(398): warning C4244: 'return': conversion from 'lua_Unsigned' to 'size_t', possible loss of data
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  Generating Code...
+  Compiling...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  Generating Code...
+     Creating library C:\Users\taha_\Desktop\SUre\EngrammerStudio\Novos_Engine\Debug\LuaGod.lib and object C:\Users\taha_\Desktop\SUre\EngrammerStudio\Novos_Engine\Debug\LuaGod.exp
+  LuaGod.vcxproj -> C:\Users\taha_\Desktop\SUre\EngrammerStudio\Novos_Engine\Debug\LuaGod.dll
